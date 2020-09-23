@@ -13,10 +13,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Here some sort of data
 
-here for some examples 
+here for some examples
+
+I am not understand how this works, I can't see this file after commit it ?
 
 ```{r cars}
 summary(cars)
+
 ```
 
 ## Including Plots
@@ -24,6 +27,7 @@ summary(cars)
 
 
 ```{r pressure, echo=FALSE}
+#there
 plot(pressure)
 ```
 
